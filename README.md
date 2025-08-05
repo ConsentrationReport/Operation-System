@@ -8,3 +8,5 @@ We will write a report about operation system after listen lectures.
 
 
 ## silee
+### SNU Operation System
+https://myetl.snu.ac.kr/courses/273418
